@@ -1,4 +1,5 @@
-# Gender_and_age_detection_system
+#Customer Segmentation system
+
 This code performs K-means clustering on a dataset of customer information to group customers based on their annual income and spending score. Here's a breakdown of what the code does:
 
 1. Imports necessary libraries: `numpy`, `pandas`, `matplotlib.pyplot`, `seaborn`, and `KMeans` from `sklearn.cluster`.
